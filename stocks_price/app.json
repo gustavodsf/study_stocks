@@ -1,0 +1,8 @@
+
+{
+    "name": "stocks-fldx-back",
+    "description": "Stocks Advisor Backend",
+    "repository": "https://github.com/gustavodsf/stocks-fldx-back",
+    "logo": "https://localhost:5000/static/logo_stocks.png",
+    "keywords": ["stocks", "advisor", "candlesticks"]
+  }

@@ -1,0 +1,192 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "Stock Advisor",
+    "version": "1.0.0",
+    "title": "Stock Advisor"
+  },
+  "servers": [
+    {
+      "url": "/"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Advisor",
+      "description": "Help you to make decision."
+    },
+    {
+      "name": "Stocks",
+      "description": "Get stocks information"
+    }
+  ],
+  "components": {
+    "schemas": {
+      "id": {
+        "properties": {
+          "uuid": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "paths": {
+    "/stock/{ticker_code}": {
+      "parameters": [
+        {
+          "name": "ticker_code",
+          "in": "path",
+          "required": true,
+          "description": "Ticker Code",
+          "type": "string"
+        }
+      ],
+      "get": {
+        "tags": [
+          "Stocks"
+        ],
+        "summary": "Get stocks information",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "ticker_code",
+            "required": true,
+            "description": "Stocks Code",
+            "schema": {
+              "$ref": "#/components/schemas/id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Failed. Misunderstood Request."
+          },
+          "404": {
+            "description": "Failed. Book request not found."
+          }
+        }
+      }
+    },
+    "/stock/hist/min/{ticker_code}": {
+      "parameters": [
+        {
+          "name": "ticker_code",
+          "in": "path",
+          "required": true,
+          "description": "Ticker Code",
+          "type": "string"
+        }
+      ],
+      "get": {
+        "tags": [
+          "Stocks"
+        ],
+        "summary": "Get the min history of the stock.",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "ticker_code",
+            "required": true,
+            "description": "Stocks Code",
+            "schema": {
+              "$ref": "#/components/schemas/id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Failed. Misunderstood Request."
+          },
+          "404": {
+            "description": "Failed. Book request not found."
+          }
+        }
+      }
+    },
+    "/stock/hist/max/{ticker_code}": {
+      "parameters": [
+        {
+          "name": "ticker_code",
+          "in": "path",
+          "required": true,
+          "description": "Ticker Code",
+          "type": "string"
+        }
+      ],
+      "get": {
+        "tags": [
+          "Stocks"
+        ],
+        "summary": "Get the max history of the stock.",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "ticker_code",
+            "required": true,
+            "description": "Stocks Code",
+            "schema": {
+              "$ref": "#/components/schemas/id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Failed. Misunderstood Request."
+          },
+          "404": {
+            "description": "Failed. Book request not found."
+          }
+        }
+      }
+    },
+    "/stock/price/{ticker_code}": {
+      "parameters": [
+        {
+          "name": "ticker_code",
+          "in": "path",
+          "required": true,
+          "description": "Ticker Code",
+          "type": "string"
+        }
+      ],
+      "get": {
+        "tags": [
+          "Stocks"
+        ],
+        "summary": "Get the max history of the stock.",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "ticker_code",
+            "required": true,
+            "description": "Stocks Code",
+            "schema": {
+              "$ref": "#/components/schemas/id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Failed. Misunderstood Request."
+          },
+          "404": {
+            "description": "Failed. Book request not found."
+          }
+        }
+      }
+    }
+  },
+}

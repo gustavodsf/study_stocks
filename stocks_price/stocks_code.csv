@@ -1,0 +1,430 @@
+,sector,symbol,name
+0,Energia-Petroleo-Gas,SBSP3.SA,Companhia de Saneamento Basico do Estado de Sao Paulo - SABESP
+1,Energia-Petroleo-Gas,CSMG3.SA,Companhia de Saneamento de Minas Gerais
+2,Energia-Petroleo-Gas,CGAS5.SA,Companhia de Gas de Sao Paulo - COMGAS
+3,Energia-Petroleo-Gas,CGAS3.SA,Companhia de Gas de Sao Paulo - COMGAS
+4,Energia-Petroleo-Gas,CEGR3.SA,Companhia Distribuidora de Gas do Rio de Janeiro - CEG
+5,Energia-Petroleo-Gas,CASN4.SA,Companhia Catarinense de Aguas e Saneamento - CASAN
+6,Energia-Petroleo-Gas,SAPR3.SA,Companhia de Saneamento do Parana - SANEPAR
+7,Energia-Petroleo-Gas,SAPR4.SA,Companhia de Saneamento do Parana - SANEPAR
+8,Energia-Petroleo-Gas,CASN3.SA,Companhia Catarinense de Aguas e Saneamento - CASAN
+9,Energia-Petroleo-Gas,CMIG4.SA,Companhia Energetica de Minas Gerais
+10,Energia-Petroleo-Gas,LIGT3.SA,Light S.A.
+11,Energia-Petroleo-Gas,ENBR3.SA,EDP - Energias do Brasil S.A.
+12,Energia-Petroleo-Gas,TAEE11.SA,Transmissora Alianca de Energia Eletrica S.A.
+13,Energia-Petroleo-Gas,CPLE6.SA,Companhia Paranaense de Energia - COPEL
+14,Energia-Petroleo-Gas,ENGI11.SA,Energisa S.A.
+15,Energia-Petroleo-Gas,ELET3.SA,Centrais Eletricas Brasileiras S.A. - Eletrobras
+16,Energia-Petroleo-Gas,CESP6.SA,CESP - Companhia Energetica de Sao Paulo
+17,Energia-Petroleo-Gas,EQTL3.SA,Equatorial Energia S.A.
+18,Energia-Petroleo-Gas,CPFE3.SA,CPFL Energia S.A.
+19,Energia-Petroleo-Gas,ELET6.SA,Centrais Eletricas Brasileiras S.A. - Eletrobras
+20,Energia-Petroleo-Gas,TIET11.SA,AES Tiete Energia S.A.
+21,Energia-Petroleo-Gas,ELPL4.SA,ELPL4.SA
+22,Energia-Petroleo-Gas,EGIE3.SA,Engie Brasil Energia S.A.
+23,Energia-Petroleo-Gas,CPLE3.SA,Companhia Paranaense de Energia - COPEL
+24,Energia-Petroleo-Gas,CMIG3.SA,Companhia Energetica de Minas Gerais
+25,Energia-Petroleo-Gas,RNEW11.SA,Renova Energia S.A.
+26,Energia-Petroleo-Gas,CPRE3.SA,CPFL Energias Renovaveis S.A.
+27,Energia-Petroleo-Gas,COCE5.SA,Companhia Energetica do Ceara - Coelce
+28,Energia-Petroleo-Gas,ALUP11.SA,Alupar Investimento S.A.
+29,Energia-Petroleo-Gas,CSRN3.SA,Companhia Energetica do Rio Grande do Norte - COSERN
+30,Energia-Petroleo-Gas,CESP3.SA,CESP - Companhia Energetica de Sao Paulo
+31,Energia-Petroleo-Gas,CLSC3.SA,Centrais Eletricas de Santa Catarina S.A.
+32,Energia-Petroleo-Gas,CLSC4.SA,Centrais Eletricas de Santa Catarina S.A.
+33,Energia-Petroleo-Gas,CEPE6.SA,Companhia Energetica de Pernambuco - CELPE
+34,Energia-Petroleo-Gas,CEPE5.SA,Companhia Energetica de Pernambuco - CELPE
+35,Energia-Petroleo-Gas,COCE3.SA,Companhia Energetica do Ceara - Coelce
+36,Energia-Petroleo-Gas,CEPE3.SA,CEPE3.SA
+37,Energia-Petroleo-Gas,COCE6.SA,COCE6.SA
+38,Energia-Petroleo-Gas,CELP7.SA,Equatorial Para Distribuidora de Energia S.A.
+39,Energia-Petroleo-Gas,PETR4.SA,Petroleo Brasileiro S.A. - Petrobras
+40,Energia-Petroleo-Gas,PETR3.SA,Petroleo Brasileiro S.A. - Petrobras
+41,Energia-Petroleo-Gas,CCXC3.SA,CCX Carvao da Colombia S.A.
+42,Energia-Petroleo-Gas,QGEP3.SA,QGEP3.SA
+43,Energia-Petroleo-Gas,OGSA3.SA,OGSA3.SA
+44,Energia-Petroleo-Gas,PRIO3.SA,Petro Rio S.A.
+45,Energia-Petroleo-Gas,OGSA3.SA,OGSA3.SA
+46,Energia-Petroleo-Gas,OGXP3.SA,Óleo e Gás Participações S.A.
+47,Energia-Petroleo-Gas,OSXB3.SA,OSX Brasil S.A.
+48,Energia-Petroleo-Gas,RPMG3.SA,Refinaria de Petroleos de Manguinhos S.A.
+49,Energia-Petroleo-Gas,BRKM5.SA,Braskem S.A.
+50,Energia-Petroleo-Gas,FHER3.SA,Fertilizantes Heringer S.A.
+51,Energia-Petroleo-Gas,BRKM3.SA,Braskem S.A.
+52,Energia-Petroleo-Gas,ELEK3.SA,Elekeiroz S.A.
+53,Energia-Petroleo-Gas,ELEK4.SA,Elekeiroz S.A.
+54,Energia-Petroleo-Gas,BRKM6.SA,Braskem S.A.
+55,Energia-Petroleo-Gas,GPCP3.SA,GPC Participacoes S.A.
+56,Energia-Petroleo-Gas,UNIP3.SA,Unipar Carbocloro S.A.
+57,Energia-Petroleo-Gas,UNIP5.SA,Unipar Carbocloro S.A.
+58,Energia-Petroleo-Gas,UNIP6.SA,Unipar Carbocloro S.A.
+59,Industria-Financeira,ITUB4.SA,Itau Unibanco Holding S.A.
+60,Industria-Financeira,BBAS3.SA,Banco do Brasil S.A.
+61,Industria-Financeira,BBDC4.SA,Banco Bradesco S.A.
+62,Industria-Financeira,BBDC3.SA,Banco Bradesco S.A.
+63,Industria-Financeira,SANB11.SA,Banco Santander (Brasil) S.A.
+64,Industria-Financeira,ITUB3.SA,Itau Unibanco Holding S.A.
+65,Industria-Financeira,BEES3.SA,Banestes S.A - Banco do Estado do Espirito Santo
+66,Industria-Financeira,BRSR6.SA,Banco do Estado do Rio Grande do Sul S.A.
+67,Industria-Financeira,BRIV3.SA,Banco Alfa de Investimento S.A.
+68,Industria-Financeira,BPAN4.SA,Banco Pan S.A.
+69,Industria-Financeira,ABCB4.SA,Banco ABC Brasil S.A.
+70,Industria-Financeira,BMEB4.SA,Banco Mercantil do Brasil S.A.
+71,Industria-Financeira,BMIN3.SA,Banco Mercantil de Investimentos S.A.
+72,Industria-Financeira,BMIN4.SA,Banco Mercantil de Investimentos S.A.
+73,Industria-Financeira,BNBR3.SA,Banco do Nordeste do Brasil S.A.
+74,Industria-Financeira,BGIP4.SA,Banco do Estado de Sergipe S.A.
+75,Industria-Financeira,BPAR3.SA,Banco do Estado do Para S.A.
+76,Industria-Financeira,BMEB3.SA,Banco Mercantil do Brasil S.A.
+77,Industria-Financeira,BRIV4.SA,Banco Alfa de Investimento S.A.
+78,Industria-Financeira,BRSR3.SA,Banco do Estado do Rio Grande do Sul S.A.
+79,Industria-Financeira,BRSR5.SA,Banco do Estado do Rio Grande do Sul S.A.
+80,Industria-Financeira,BGIP3.SA,Banco do Estado de Sergipe S.A.
+81,Industria-Financeira,BSLI3.SA,BRB - Banco de Brasilia S.A.
+82,Industria-Financeira,SANB4.SA,Banco Santander (Brasil) S.A.
+83,Industria-Financeira,DAYC4.SA,DAYC4.SA
+84,Industria-Financeira,IDVL3.SA,Banco Indusval S.A.
+85,Industria-Financeira,IDVL4.SA,Banco Indusval S.A.
+86,Industria-Financeira,BEES4.SA,Banestes S.A - Banco do Estado do Espirito Santo
+87,Industria-Financeira,BBTG11.SA,BBTG11.SA
+88,Industria-Financeira,PINE4.SA,Banco Pine S.A.
+89,Industria-Financeira,BBSE3.SA,BB Seguridade Participacoes S.A.
+90,Industria-Financeira,SULA11.SA,Sul America S.A.
+91,Industria-Financeira,PSSA3.SA,Porto Seguro S.A.
+92,Industria-Financeira,PARC3.SA,PARC3.SA
+93,Industria-Financeira,BRIN3.SA,BR Insurance Corretora de Seguros S.A.
+94,Industria-Financeira,CSAB3.SA,Companhia de Seguros Alianca da Bahia
+95,Industria-Financeira,CSAB4.SA,Companhia de Seguros Alianca da Bahia
+96,Industria-Financeira,CIEL3.SA,Cielo S.A.
+97,Industria-Financeira,BVMF3.SA,BVMF3.SA
+98,Industria-Financeira,CTIP3.SA,CTIP3.SA
+99,Industria-Financeira,BRGE11.SA,Consorcio Alfa de Administracao S.A.
+100,Industria-Financeira,BRGE6.SA,Consorcio Alfa de Administracao S.A.
+101,Industria-Financeira,BRGE7.SA,Consorcio Alfa de Administracao S.A.
+102,Industria-Financeira,BRGE8.SA,Consorcio Alfa de Administracao S.A.
+103,Industria-Financeira,BRGE5.SA,Consorcio Alfa de Administracao S.A.
+104,Industria-Financeira,BRGE3.SA,Consorcio Alfa de Administracao S.A.
+105,Industria-Financeira,CRIV3.SA,"Financeira Alfa S.A. - Credito, Financiamento e Investimentos"
+106,Industria-Financeira,CRIV4.SA,"Financeira Alfa S.A. - Credito, Financiamento e Investimentos"
+107,Industria-Financeira,BRGE12.SA,Consorcio Alfa de Administracao S.A.
+108,Industria-Financeira,MERC3.SA,Mercantil do Brasil Financeira S.A.
+109,Industria-Financeira,MERC4.SA,Mercantil do Brasil Financeira S.A.
+110,Industria-Financeira,TRPN3.SA,TRPN3.SA
+111,Saude-Farmaceutica,PFRM3.SA,Profarma Distribuidora de Produtos Farmaceuticos S.A.
+112,Saude-Farmaceutica,ODPV3.SA,Odontoprev S.A.
+113,Saude-Farmaceutica,QUAL3.SA,Qualicorp Consultoria e Corretora de Seguros S.A.
+114,Saude-Farmaceutica,FLRY3.SA,Fleury S.A.
+115,Saude-Farmaceutica,BPHA3.SA,Brasil Pharma S.A.
+116,Saude-Farmaceutica,BIOM3.SA,Biomm S.A.
+117,Saude-Farmaceutica,OFSA3.SA,Ouro Fino Saude Animal Participacoes S.A.
+118,Saude-Farmaceutica,DASA3.SA,Diagnosticos da America S.A.
+119,Saude-Farmaceutica,CREM3.SA,Cremer S.A.
+120,Saude-Farmaceutica,TEMP3.SA,TEMP3.SA
+121,Telecomunicacoes-Tecnologia,OIBR4.SA,Oi S.A.
+122,Telecomunicacoes-Tecnologia,OIBR3.SA,Oi S.A.
+123,Telecomunicacoes-Tecnologia,TIMP3.SA,TIM Participacoes S.A.
+124,Telecomunicacoes-Tecnologia,VIVT4.SA,Telefonica Brasil S.A.
+125,Telecomunicacoes-Tecnologia,MLFT4.SA,MLFT4.SA
+126,Telecomunicacoes-Tecnologia,VIVT3.SA,Telefonica Brasil S.A.
+127,Telecomunicacoes-Tecnologia,LFFE4.SA,LFFE4.SA
+128,Telecomunicacoes-Tecnologia,LFFE3.SA,LFFE3.SA
+129,Telecomunicacoes-Tecnologia,TELB3.SA,Telecomunicacoes Brasileiras S.A. - TELEBRAS
+130,Telecomunicacoes-Tecnologia,MLFT3.SA,MLFT3.SA
+131,Telecomunicacoes-Tecnologia,TELB4.SA,Telecomunicacoes Brasileiras S.A. - TELEBRAS
+132,Telecomunicacoes-Tecnologia,CARD3.SA,CSU Cardsystem S.A.
+133,Telecomunicacoes-Tecnologia,LINX3.SA,Linx S.A.
+134,Telecomunicacoes-Tecnologia,POSI3.SA,Positivo Tecnologia S.A.
+135,Telecomunicacoes-Tecnologia,TTS3.SA,TTS3.SA
+136,Telecomunicacoes-Tecnologia,IDNT3.SA,Ideiasnet S.A.
+137,Telecomunicacoes-Tecnologia,SNSL3.SA,SNSL3.SA
+138,Telecomunicacoes-Tecnologia,ITEC3.SA,ITEC3.SA
+139,Industria-Alimenticia,CSAN3.SA,Cosan S.A.
+140,Industria-Alimenticia,SMTO3.SA,Sao Martinho S.A.
+141,Industria-Alimenticia,JOPA3.SA,JOSAPAR Joaquim Oliveira S.A. Participacoes
+142,Industria-Alimenticia,JOPA4.SA,JOSAPAR Joaquim Oliveira S.A. Participacoes
+143,Industria-Alimenticia,MRFRG3.SA,MRFRG3.SA
+144,Industria-Alimenticia,JBSS3.SA,JBS S.A.
+145,Industria-Alimenticia,BRFS3.SA,BRF S.A.
+146,Industria-Alimenticia,BEEF3.SA,Minerva S.A.
+147,Industria-Alimenticia,MNPR3.SA,Minupar Participacoes S.A.
+148,Industria-Alimenticia,BAUH4.SA,Excelsior Alimentos S.A.
+149,Industria-Alimenticia,MDIA3.SA,M. Dias Branco S.A. Industria e Comercio de Alimentos
+150,Industria-Alimenticia,TERI3.SA,TERI3.SA
+151,Industria-Alimenticia,VIGR3.SA,VIGR3.SA
+152,Industria-Manufatureira,SUZB5.SA,SUZB5.SA
+153,Industria-Manufatureira,FIBR3.SA,Fibria Celulose S.A.
+154,Industria-Manufatureira,KLBN11.SA,KLABIN S/A  UNT     N2
+155,Industria-Manufatureira,DTEX3.SA,Duratex S.A.
+156,Industria-Manufatureira,KLBN4.SA,Klabin S.A.
+157,Industria-Manufatureira,UCAS3.SA,Unicasa Industria de Moveis S.A.
+158,Industria-Manufatureira,KLBN3.SA,Klabin S.A.
+159,Industria-Manufatureira,MSPA3.SA,Companhia Melhoramentos de Sao Paulo
+160,Industria-Manufatureira,RANI4.SA,Celulose Irani S.A.
+161,Industria-Manufatureira,RANI3.SA,Celulose Irani S.A.
+162,Industria-Manufatureira,SUZB6.SA,SUZB6.SA
+163,Industria-Manufatureira,MSPA4.SA,Companhia Melhoramentos de Sao Paulo
+164,Industria-Manufatureira,MERC3.SA,Mercantil do Brasil Financeira S.A.
+165,Industria-Manufatureira,MERC4.SA,Mercantil do Brasil Financeira S.A.
+166,Industria-Manufatureira,TRPN3.SA,TRPN3.SA
+167,Industria-Manufatureira,HGTX3.SA,Cia. Hering
+168,Industria-Manufatureira,VULC3.SA,Vulcabras Azaleia S.A.
+169,Industria-Manufatureira,ALPA4.SA,Alpargatas S.A.
+170,Industria-Manufatureira,GRND3.SA,Grendene S.A.
+171,Industria-Manufatureira,ARZZ3.SA,Arezzo Industria e Comercio S.A.
+172,Industria-Manufatureira,SGPS3.SA,Springs Global Participacoes S.A.
+173,Industria-Manufatureira,DOHL4.SA,Dohler S.A.
+174,Industria-Manufatureira,CTKA4.SA,Karsten S.A.
+175,Industria-Manufatureira,CTNM3.SA,Companhia de Tecidos Norte de Minas
+176,Industria-Manufatureira,CTNM4.SA,Companhia de Tecidos Norte de Minas
+177,Industria-Manufatureira,CTSA3.SA,Companhia Tecidos Santanense Ltda.
+178,Industria-Manufatureira,CTSA4.SA,Companhia Tecidos Santanense Ltda.
+179,Industria-Manufatureira,CTSA8.SA,CTSA8.SA
+180,Industria-Manufatureira,DOHL3.SA,Dohler S.A.
+181,Industria-Manufatureira,CTKA3.SA,Karsten S.A.
+182,Industria-Manufatureira,ECPR3.SA,"Empresa Nacional de Comercio, Redito e Participacoes S.A. - Encorpar"
+183,Industria-Manufatureira,ECPR4.SA,"Empresa Nacional de Comercio, Redito e Participacoes S.A. - Encorpar"
+184,Industria-Manufatureira,CAMB4.SA,Cambuci S.A.
+185,Industria-Manufatureira,BUET4.SA,BUET4.SA
+186,Industria-Manufatureira,PTNT3.SA,Pettenati S.A. Industria Textil
+187,Industria-Manufatureira,PTNT4.SA,Pettenati S.A. Industria Textil
+188,Industria-Manufatureira,BUET3.SA,BUET3.SA
+189,Industria-Manufatureira,TECN3.SA,Technos S.A.
+190,Industria-Manufatureira,TEKA3.SA,Teka Tecelagem Kuehnrich S.A.
+191,Industria-Manufatureira,TEKA4.SA,Teka Tecelagem Kuehnrich S.A.
+192,Industria-Manufatureira,TXRX3.SA,Textil Renauxview S.A.
+193,Industria-Manufatureira,TXRX4.SA,Textil Renauxview S.A.
+194,Industria-Manufatureira,ALPA3.SA,Alpargatas S.A.
+195,Industria-Manufatureira,WMBY3.SA,WMBY3.SA
+196,Industria-Manufatureira,HETA3.SA,Hercules S.A - Fabrica de Talheres
+197,Industria-Manufatureira,HETA4.SA,Hercules S.A - Fabrica de Talheres
+198,Industria-Manufatureira,MNDL3.SA,Mundial S.A. - Produtos de Consumo
+199,Industria-Manufatureira,NAFG3.SA,Nadir Figueiredo Industria e Comercio S.A.
+200,Industria-Manufatureira,NAFG4.SA,Nadir Figueiredo Industria e Comercio S.A.
+201,Servicos-diversos,ANIM3.SA,Anima Holding S.A.
+202,Servicos-diversos,KROT3.SA,KROT3.SA
+203,Servicos-diversos,ESTC3.SA,ESTC3.SA
+204,Servicos-diversos,SEER3.SA,Ser Educacional S.A.
+205,Servicos-diversos,SEDU3.SA,SEDU3.SA
+206,Servicos-diversos,MEAL3.SA,International Meal Company Alimentacao S.A.
+207,Servicos-diversos,HOOT4.SA,Hoteis Othon S.A.
+208,Servicos-diversos,BRML3.SA,BR Malls Participacoes S.A.
+209,Servicos-diversos,JHSF3.SA,JHSF Participacoes S.A.
+210,Servicos-diversos,MULT3.SA,Multiplan Empreendimentos Imobiliarios S.A.
+211,Servicos-diversos,AGRO3.SA,BrasilAgro - Companhia Brasileira de Propriedades Agricolas
+212,Servicos-diversos,IGTA3.SA,Iguatemi Empresa de Shopping Centers S.A.
+213,Servicos-diversos,ALSC3.SA,ALSC3.SA
+214,Servicos-diversos,BRPR3.SA,BR Properties S.A.
+215,Servicos-diversos,SCAR3.SA,Sao Carlos Empreendimentos e Participacoes S.A.
+216,Servicos-diversos,CCPR3.SA,Cyrela Commercial Properties S.A.
+217,Servicos-diversos,SSBR3.SA,SSBR3.SA
+218,Servicos-diversos,GSHP3.SA,General Shopping e Outlets do Brasil S.A.
+219,Servicos-diversos,CORR3.SA,CORR3.SA
+220,Servicos-diversos,CORR4.SA,Correa Ribeiro S.A. Comercio e Industria
+221,Servicos-diversos,SHOW3.SA,T4F Entretenimento S.A.
+222,Servicos-diversos,CVCB3.SA,CVC Brasil Operadora e Agencia de Viagens S.A.
+223,Servicos-diversos,ESTR3.SA,Manufatura de Brinquedos Estrela S.A.
+224,Servicos-diversos,ESTR4.SA,Manufatura de Brinquedos Estrela S.A.
+225,Servicos-diversos,AHEB3.SA,Sao Paulo Turismo S.A.
+226,Servicos-diversos,AHEB6.SA,Sao Paulo Turismo S.A.
+227,Servicos-diversos,AHEB5.SA,Sao Paulo Turismo S.A.
+228,Servicos-diversos,TOYB3.SA,TOYB3.SA
+229,Servicos-diversos,TOYB4.SA,TOYB4.SA
+230,Servicos-diversos,RENT3.SA,Localiza Rent a Car S.A.
+231,Servicos-diversos,VLID3.SA,Valid Solucoes S.A.
+232,Servicos-diversos,SMLE3.SA,SMLE3.SA
+233,Servicos-diversos,MPLU3.SA,MPLU3.SA
+234,Servicos-diversos,CTAX3.SA,CTAX3.SA
+235,Servicos-diversos,DTCY3.SA,DTCOM - Direct to Company S.A.
+236,Servicos-diversos,CTAX4.SA,CTAX4.SA
+237,Varejo,VVAR11.SA,Via Varejo S.A. SHS DEP CERT
+238,Varejo,LREN3.SA,Lojas Renner S.A.
+239,Varejo,RADL3.SA,Raia Drogasil S.A.
+240,Varejo,LAME4.SA,Lojas Americanas S.A.
+241,Varejo,PCAR4.SA,Companhia Brasileira de Distribuicao
+242,Varejo,LAME3.SA,Lojas Americanas S.A.
+243,Varejo,CGRA4.SA,Grazziotin S.A.
+244,Varejo,MGLU3.SA,Magazine Luiza S.A.
+245,Varejo,VVAR3.SA,Via Varejo S.A.
+246,Varejo,AMAR3.SA,Marisa Lojas S.A.
+247,Varejo,BTOW3.SA,B2W - Companhia Digital
+248,Varejo,LLIS3.SA,Restoque Comercio e Confeccoes de Roupas S.A.
+249,Varejo,CGRA3.SA,Grazziotin S.A.
+250,Varejo,PNVL4.SA,Dimed S.A. Distribuidora de Medicamentos
+251,Varejo,GUAR4.SA,GUAR4.SA
+252,Varejo,PNVL3.SA,Dimed S.A. Distribuidora de Medicamentos
+253,Varejo,GUAR3.SA,Guararapes Confeccoes S.A.
+254,Varejo,PCAR3.SA,Companhia Brasileira de Distribuicao
+255,Varejo,SLED3.SA,Saraiva S.A. Livreiros Editores
+256,Varejo,SLED4.SA,Saraiva S.A. Livreiros Editores
+257,Varejo,LHER3.SA,LHER3.SA
+258,Varejo,LHER4.SA,LHER4.SA
+259,Construcao-Equipamentos,POMO4.SA,Marcopolo S.A.
+260,Construcao-Equipamentos,WEGE3.SA,WEG S.A.
+261,Construcao-Equipamentos,MYPK3.SA,Iochpe-Maxion S.A.
+262,Construcao-Equipamentos,FRAS3.SA,Fras-le S.A.
+263,Construcao-Equipamentos,TUPY3.SA,Tupy S.A.
+264,Construcao-Equipamentos,RAPT4.SA,Randon S.A. Implementos e Participacoes
+265,Construcao-Equipamentos,POMO3.SA,Marcopolo S.A.
+266,Construcao-Equipamentos,SHUL4.SA,Schulz S.A.
+267,Construcao-Equipamentos,BDLL4.SA,Bardella S.A. Industrias Mecanicas
+268,Construcao-Equipamentos,FJTA4.SA,FJTA4.SA
+269,Construcao-Equipamentos,KEPL3.SA,Kepler Weber S.A.
+270,Construcao-Equipamentos,LEVE3.SA,Mahle Metal Leve S.A.
+271,Construcao-Equipamentos,ROMI3.SA,Industrias Romi S.A.
+272,Construcao-Equipamentos,MTSA3.SA,METISA Metalurgica Timboense S.A.
+273,Construcao-Equipamentos,INEP3.SA,Inepar S.A. Industria e Construcoes
+274,Construcao-Equipamentos,INEP4.SA,Inepar S.A. Industria e Construcoes
+275,Construcao-Equipamentos,FJTA3.SA,FJTA3.SA
+276,Construcao-Equipamentos,EALT4.SA,Electro Aco Altona S.A.
+277,Construcao-Equipamentos,LUPA3.SA,Lupatech S.A.
+278,Construcao-Equipamentos,MMAQ3.SA,MMAQ3.SA
+279,Construcao-Equipamentos,MMAQ4.SA,MMAQ4.SA
+280,Construcao-Equipamentos,FRIO3.SA,Metalfrio Solutions S.A.
+281,Construcao-Equipamentos,MTSA4.SA,METISA Metalurgica Timboense S.A.
+282,Construcao-Equipamentos,MWET3.SA,Wetzel S.A.
+283,Construcao-Equipamentos,MWET4.SA,Wetzel S.A.
+284,Construcao-Equipamentos,EALT3.SA,Electro Aco Altona S.A.
+285,Construcao-Equipamentos,NORD3.SA,Nordon Industrias Metalurgicas S/A
+286,Construcao-Equipamentos,PLAS3.SA,Plascar Participacoes Industriais S.A.
+287,Construcao-Equipamentos,DHBI4.SA,DHBI4.SA
+288,Construcao-Equipamentos,DHBI3.SA,DHBI3.SA
+289,Construcao-Equipamentos,MILS3.SA,Mills Estruturas e Servicos de Engenharia S.A.
+290,Construcao-Equipamentos,AZEV3.SA,Azevedo & Travassos S.A.
+291,Construcao-Equipamentos,LIXC3.SA,LIXC3.SA
+292,Construcao-Equipamentos,LIXC4.SA,LIXC4.SA
+293,Construcao-Equipamentos,MEND3.SA,MEND3.SA
+294,Construcao-Equipamentos,MEND5.SA,Mendes Junior Engenharia S.A.
+295,Construcao-Equipamentos,MEND6.SA,Mendes Junior Engenharia S.A.
+296,Construcao-Equipamentos,AZEV4.SA,Azevedo & Travassos S.A.
+297,Construcao-Equipamentos,SOND3.SA,Sondotecnica Engenharia de Solos S.A.
+298,Construcao-Equipamentos,SOND5.SA,Sondotecnica Engenharia de Solos S.A.
+299,Construcao-Equipamentos,SOND6.SA,Sondotecnica Engenharia de Solos S.A.
+300,Construcao-Equipamentos,SULT3.SA,SULT3.SA
+301,Construcao-Equipamentos,SULT4.SA,SULT4.SA
+302,Construcao-Equipamentos,TCNO3.SA,Tecnosolo Engenharia S.A.
+303,Construcao-Equipamentos,TCNO4.SA,Tecnosolo Engenharia S.A.
+304,Construcao-Equipamentos,POMO4.SA,Marcopolo S.A.
+305,Construcao-Equipamentos,WEGE3.SA,WEG S.A.
+306,Construcao-Equipamentos,MYPK3.SA,Iochpe-Maxion S.A.
+307,Construcao-Equipamentos,FJTA4.SA,FJTA4.SA
+308,Construcao-Equipamentos,TUPY3.SA,Tupy S.A.
+309,Construcao-Equipamentos,FRAS3.SA,Fras-le S.A.
+310,Construcao-Equipamentos,KEPL3.SA,Kepler Weber S.A.
+311,Construcao-Equipamentos,RCSL4.SA,Recrusul S/A
+312,Construcao-Equipamentos,RAPT4.SA,Randon S.A. Implementos e Participacoes
+313,Construcao-Equipamentos,POMO3.SA,Marcopolo S.A.
+314,Construcao-Equipamentos,SHUL4.SA,Schulz S.A.
+315,Construcao-Equipamentos,BDLL4.SA,Bardella S.A. Industrias Mecanicas
+316,Construcao-Equipamentos,ROMI3.SA,Industrias Romi S.A.
+317,Construcao-Equipamentos,LEVE3.SA,Mahle Metal Leve S.A.
+318,Construcao-Equipamentos,MTSA3.SA,METISA Metalurgica Timboense S.A.
+319,Construcao-Equipamentos,INEP4.SA,Inepar S.A. Industria e Construcoes
+320,Construcao-Equipamentos,FRIO3.SA,Metalfrio Solutions S.A.
+321,Construcao-Equipamentos,FJTA3.SA,FJTA3.SA
+322,Construcao-Equipamentos,LUPA3.SA,Lupatech S.A.
+323,Construcao-Equipamentos,MMAQ3.SA,MMAQ3.SA
+324,Construcao-Equipamentos,MMAQ4.SA,MMAQ4.SA
+325,Construcao-Equipamentos,INEP3.SA,Inepar S.A. Industria e Construcoes
+326,Construcao-Equipamentos,MTSA4.SA,METISA Metalurgica Timboense S.A.
+327,Construcao-Equipamentos,MWET3.SA,Wetzel S.A.
+328,Construcao-Equipamentos,MWET4.SA,Wetzel S.A.
+329,Construcao-Equipamentos,EALT4.SA,Electro Aco Altona S.A.
+330,Construcao-Equipamentos,NORD3.SA,Nordon Industrias Metalurgicas S/A
+331,Construcao-Equipamentos,PLAS3.SA,Plascar Participacoes Industriais S.A.
+332,Construcao-Equipamentos,EALT3.SA,Electro Aco Altona S.A.
+333,Construcao-Equipamentos,DHBI4.SA,DHBI4.SA
+334,Bens-de-consumo,BSEV.SA,BSEV.SA
+335,Bens-de-consumo,FRTA3.SA,Pomifrutas S/A
+336,Bens-de-consumo,SLCE3.SA,SLC Agricola S.A.
+337,Bens-de-consumo,VAGR3.SA,VAGR3.SA
+338,Bens-de-consumo,CEDO3.SA,Companhia de Fiacao e Tecidos Cedro e Cachoeira S.A.
+339,Bens-de-consumo,CEDO4.SA,Companhia de Fiacao e Tecidos Cedro e Cachoeira S.A.
+340,Bens-de-consumo,SCLO3.SA,SCLO3.SA
+341,Bens-de-consumo,SCLO4.SA,SCLO4.SA
+342,Bens-de-consumo,SJOS3.SA,SJOS3.SA
+343,Bens-de-consumo,SJOS4.SA,SJOS4.SA
+344,Bens-de-consumo,TENE5.SA,TENE5.SA
+345,Bens-de-consumo,TENE6.SA,TENE6.SA
+346,Bens-de-consumo,TENE7.SA,TENE7.SA
+347,Industrias-em-geral,ITSA4.SA,Itausa - Investimentos Itau S.A.
+348,Industrias-em-geral,BRAP4.SA,Bradespar S.A.
+349,Industrias-em-geral,UGPA3.SA,Ultrapar Participacoes S.A.
+350,Industrias-em-geral,ITSA3.SA,Itausa - Investimentos Itau S.A.
+351,Industrias-em-geral,JBDU4.SA,Industrias J.B. Duarte S.A.
+352,Industrias-em-geral,FIGE3.SA,FIGE3.SA
+353,Industrias-em-geral,FIGE4.SA,FIGE4.SA
+354,Industrias-em-geral,HBTS5.SA,Companhia Habitasul de Participacoes
+355,Industrias-em-geral,BTTL3.SA,Battistella Administracao e Participacoes S.A.
+356,Industrias-em-geral,BRAP3.SA,Bradespar S.A.
+357,Industrias-em-geral,JBDU3.SA,Industrias J.B. Duarte S.A.
+358,Industrias-em-geral,BTTL4.SA,Battistella Administração e Participações S.A.
+359,Industrias-em-geral,LIPR3.SA,Eletrobras Participacoes S.A. - Eletropar
+360,Industrias-em-geral,MAPT3.SA,Cemepe Investimentos S.A.
+361,Industrias-em-geral,MAPT4.SA,Cemepe Investimentos S.A.
+362,Industrias-em-geral,MOAR3.SA,Monteiro Aranha S.A.
+363,Industrias-em-geral,PEAB3.SA,Companhia de Participacoes Alianca da Bahia
+364,Industrias-em-geral,PEAB4.SA,Companhia de Participacoes Alianca da Bahia
+365,Industrias-em-geral,PPAR3.SA,PPAR3.SA
+366,Industrias-em-geral,RPAD3.SA,Alfa Holdings S.A.
+367,Industrias-em-geral,RPAD5.SA,Alfa Holdings S.A.
+368,Industrias-em-geral,RPAD6.SA,Alfa Holdings S.A.
+369,Industrias-em-geral,BAHI3.SA,Bahema Educacao S.A.
+370,Industrias-em-geral,ABEV3.SA,Ambev S.A.
+371,Industrias-em-geral,HYPE3.SA,Hypera S.A.
+372,Industrias-em-geral,EMBR3.SA,Embraer S.A.
+373,Industrias-em-geral,NATU3.SA,Natura Cosmeticos S.A.
+374,Industrias-em-geral,IGBR3.SA,IGB Eletronica S.A.
+375,Industrias-em-geral,BOBR4.SA,Bombril S.A.
+376,Industrias-em-geral,BMTO4.SA,BMTO4.SA
+377,Industrias-em-geral,BMTO3.SA,BMTO3.SA
+378,Industrias-em-geral,BMKS3.SA,Bicicletas Monark S.A.
+379,Industrias-em-geral,SPRI3.SA,Springer S/A
+380,Industrias-em-geral,SPRI5.SA,Springer S/A
+381,Industrias-em-geral,SPRI6.SA,Springer S/A
+382,Industrias-em-geral,WHRL3.SA,Whirlpool S.A.
+383,Industrias-em-geral,WHRL4.SA,Whirlpool S.A.
+384,Industrias-em-geral,VALE5.SA,VALE5.SA
+385,Industrias-em-geral,VALE3.SA,Vale S.A.
+386,Industrias-em-geral,MMXM3.SA,MMX Mineracao e Metalicos S.A.
+387,Industrias-em-geral,MMXM11.SA,MMX Mineracao e Metalicos S.A.
+388,Industrias-em-geral,USIM5.SA,Usinas Siderurgicas de Minas Gerais S.A.
+389,Industrias-em-geral,GOAU4.SA,Metalurgica Gerdau S.A.
+390,Industrias-em-geral,GGBR4.SA,Gerdau S.A.
+391,Industrias-em-geral,CSNA3.SA,Companhia Siderurgica Nacional
+392,Industrias-em-geral,GOAU3.SA,Metalurgica Gerdau S.A.
+393,Industrias-em-geral,GGBR3.SA,Gerdau S.A.
+394,Industrias-em-geral,PMAM3.SA,Paranapanema S.A.
+395,Industrias-em-geral,USIM3.SA,Usinas Siderurgicas de Minas Gerais S.A.
+396,Industrias-em-geral,FESA4.SA,Cia de Ferro Ligas da Bahia - FERBASA
+397,Industrias-em-geral,APTI3.SA,APTI3.SA
+398,Industrias-em-geral,FBMC4.SA,Fibam Companhia Industrial
+399,Industrias-em-geral,FESA3.SA,Cia de Ferro Ligas da Bahia - FERBASA
+400,Industrias-em-geral,FBMC3.SA,FBMC3.SA
+401,Industrias-em-geral,MGEL3.SA,MGEL3.SA
+402,Industrias-em-geral,MGEL4.SA,Mangels Industrial S.A.
+403,Industrias-em-geral,PATI3.SA,Panatlantica S.A.
+404,Industrias-em-geral,APTI4.SA,Siderurgica JL Aliperti SA
+405,Industrias-em-geral,USIM6.SA,Usinas Siderurgicas de Minas Gerais S.A.
+406,Industrias-em-geral,TKNO3.SA,TKNO3.SA
+407,Industrias-em-geral,TKNO4.SA,Tekno S.A. Industria e Comercio
+408,Industrias-em-geral,PATI4.SA,Panatlantica S.A.
+409,Industrias-em-geral,DUQE3.SA,DUQE3.SA
+410,Industrias-em-geral,DUQE4.SA,DUQE4.SA
+411,Industrias-em-geral,RUMO3.SA,RUMO3.SA
+412,Industrias-em-geral,CCRO3.SA,CCR S.A.
+413,Industrias-em-geral,GOLL4.SA,Gol Linhas Aereas Inteligentes S.A.
+414,Industrias-em-geral,ECOR3.SA,EcoRodovias Infraestrutura e Logistica S.A.
+415,Industrias-em-geral,PRML3.SA,PRML3.SA
+416,Industrias-em-geral,LCAM3.SA,Unidas - Todos os direitos reservados
+417,Industrias-em-geral,TPIS3.SA,Triunfo Participacoes e Investimentos S.A.
+418,Industrias-em-geral,LOGN3.SA,Log-In Logistica Intermodal S.A.
+419,Industrias-em-geral,TGMA3.SA,Tegma Gestao Logistica S.A.
+420,Industrias-em-geral,IMBI4.SA,IMBI4.SA
+421,Industrias-em-geral,LUXM4.SA,Trevisa Investimentos S.A.
+422,Industrias-em-geral,JSLG3.SA,JSL S.A.
+423,Industrias-em-geral,RLOG3.SA,Cosan Logistica S.A.
+424,Industrias-em-geral,IMBI3.SA,IMBI3.SA
+425,Industrias-em-geral,VSPT3.SA,VSPT3.SA
+426,Industrias-em-geral,LUXM3.SA,LUXM3.SA
+427,Industrias-em-geral,STBP11.SA,STBP11.SA
+428,Industrias-em-geral,ARTR3.SA,ARTR3.SA
